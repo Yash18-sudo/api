@@ -8,11 +8,11 @@ const port = process.env.PORT || 3000;
 
 const apiData = require("./data.json");
 
-app.get('/', (req, res) => {
+app.get('/service', (req, res) => {
     res.send('Welcome');
 });
 
-app.get('/service', (req, res) => {
+app.get('/', (req, res) => {
     res.send(apiData);
 });
 
