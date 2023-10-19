@@ -9,7 +9,7 @@ const port = process.env.PORT || 3000;
 const apiData = require("./data.json");
 
 app.get('/', (req, res) => {
-    res.send('Welcome');
+    res.send('Welcome to api created by yash');
 });
 
 app.get('/service', (req, res) => {
