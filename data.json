@@ -1,124 +1,214 @@
 {
   "results": [
     {
-      "category": "Science: Computers",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
-      "correct_answer": "1000",
-      "incorrect_answers": [
-        "512",
-        "1024",
-        "500"
-      ]
+      "question": "My sister and I ___________ the same school.",
+      "correct_answer": "have",
+      "incorrect_answers": ["has", "is", "was"]
     },
     {
-      "category": "Entertainment: Video Games",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "Which eSports team came first place in The International Dota 2 Championship 2016?",
-      "correct_answer": "Wings Gaming",
-      "incorrect_answers": [
-        "Digital Chaos",
-        "Evil Geniuses",
-        "Fnatic"
-      ]
+      "question": "What is the plural form of 'book'?",
+      "correct_answer": "books",
+      "incorrect_answers": ["bookes", "book's", "bookies"]
     },
     {
-      "category": "Entertainment: Video Games",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "In what year was the game &quot;Fallout&quot; released?",
-      "correct_answer": "1997",
-      "incorrect_answers": [
-        "1998",
-        "1999",
-        "1996"
-      ]
+      "question": "I enjoy playing ___________ the park.",
+      "correct_answer": "in",
+      "incorrect_answers": ["on", "at", "with"]
     },
     {
-      "category": "Entertainment: Video Games",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "In what city in the dystopia alternate future of Half-Life 2 do you first start in?",
-      "correct_answer": "City 17",
-      "incorrect_answers": [
-        "City 18",
-        "City 6",
-        "City 45"
-      ]
+      "question": "The sun is ___________.",
+      "correct_answer": "hot",
+      "incorrect_answers": ["big", "fast", "blue"]
     },
     {
-      "category": "Science & Nature",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "The asteroid belt is located between which two planets?",
-      "correct_answer": "Mars and Jupiter",
-      "incorrect_answers": [
-        "Jupiter and Saturn",
-        "Mercury and Venus",
-        "Earth and Mars"
-      ]
+      "question": "Choose the correct form of the verb to complete the sentence: 'She _______ to school every day.'",
+      "correct_answer": "goes",
+      "incorrect_answers": ["go", "went", "gone"]
     },
     {
-      "category": "Celebrities",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "What was the cause of Marilyn Monroes suicide?",
-      "correct_answer": "Drug Overdose",
-      "incorrect_answers": [
-        "Knife Attack",
-        "House Fire",
-        "Gunshot"
-      ]
+      "question": "What is the color of a banana?",
+      "correct_answer": "Yellow",
+      "incorrect_answers": ["Red", "Green", "Blue"]
     },
     {
-      "category": "History",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "Which of the following countries was not an axis power during World War II?",
-      "correct_answer": " Soviet Union",
-      "incorrect_answers": [
-        "Italy",
-        "Germany",
-        "Japan"
-      ]
+      "question": "Which of the following is a type of fruit?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["Chair", "House", "Car"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his guardian angel?",
-      "correct_answer": "Eddie the Mean Old Yeti",
-      "incorrect_answers": [
-        "Kiddy Kong",
-        "Diddy Kong",
-        "King K. Rool"
-      ]
+      "question": "What comes after 'A, B, C' in the alphabet?",
+      "correct_answer": "D",
+      "incorrect_answers": ["E", "F", "G"]
     },
     {
-      "category": "History",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "What is the historical name of Sri Lanka?",
-      "correct_answer": "Ceylon",
-      "incorrect_answers": [
-        "Myanmar",
-        "Colombo",
-        "Badulla"
-      ]
+      "question": "Which one is a question?",
+      "correct_answer": "Runs?",
+      "incorrect_answers": ["Run!", "Running", "Ran"]
     },
     {
-      "category": "General Knowledge",
-      "type": "multiple",
+      "category": "English",
       "difficulty": "easy",
-      "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
-      "correct_answer": "Slacking",
-      "incorrect_answers": [
-        "Smoking",
-        "Stealing",
-        "Cheating"
-      ]
+      "question": "Choose the correct preposition to complete the sentence: 'The cat is hiding _______ the bed.'",
+      "correct_answer": "under",
+      "incorrect_answers": ["in", "on", "over"]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "What is the opposite of 'brave'?",
+      "correct_answer": "Cowardly",
+      "incorrect_answers": ["Strong", "Happy", "Kind"]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "Which of the following sentences is in the past perfect tense?",
+      "correct_answer": "I had already finished my homework.",
+      "incorrect_answers": ["She sings beautifully.", "They were playing in the garden.", "He will go to the store."]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "What is the past participle of the verb 'swim'?",
+      "correct_answer": "Swum",
+      "incorrect_answers": ["Swims", "Swimming", "Swam"]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "Choose the correct relative pronoun to complete the sentence: 'The man _____ I met yesterday was very kind.'",
+      "correct_answer": "Whom",
+      "incorrect_answers": ["That", "Who", "Whose"]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "Identify the correct sentence with proper subject-verb agreement:",
+      "correct_answer": "The team is playing well.",
+      "incorrect_answers": ["The team are playing well.", "The team playing well.", "The team was playing well."]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "What is the meaning of the word 'ubiquitous'?",
+      "correct_answer": "Present everywhere",
+      "incorrect_answers": ["Rare", "Unpredictable", "Unusual"]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "Which of the following sentences uses a metaphor?",
+      "correct_answer": "She runs as fast as a cheetah.",
+      "incorrect_answers": ["The night sky is a dark blanket.", "The wind howled like a wolf.", "His smile was as bright as the sun."]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "What is the correct past perfect tense of the verb 'drive'?",
+      "correct_answer": "Driven",
+      "incorrect_answers": ["Drives", "Drove", "Driving"]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "Choose the correct conjunction to complete the sentence: 'She wanted ice cream, _____ she had cake instead.'",
+      "correct_answer": "But",
+      "incorrect_answers": ["Because", "So", "Or"]
+    },
+    {
+      "category": "English",
+      "difficulty": "medium",
+      "question": "Which of the following sentences uses a gerund?",
+      "correct_answer": "She enjoys swimming.",
+      "incorrect_answers": ["She will swim later.", "She swam yesterday.", "She has swum before."]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "What is the antonym of 'ephemeral'?",
+      "correct_answer": "Permanent",
+      "incorrect_answers": ["Brief", "Temporary", "Transient"]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "In the sentence 'His audacious behavior left everyone in awe,' what does 'audacious' mean?",
+      "correct_answer": "Bold",
+      "incorrect_answers": ["Shy", "Cautious", "Discreet"]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "What is the correct past perfect tense of the verb 'eat'?",
+      "correct_answer": "Eaten",
+      "incorrect_answers": ["Eat", "Ate", "Eats"]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "Identify the sentence with proper split infinitive:",
+      "correct_answer": "She decided to quickly finish her homework.",
+      "incorrect_answers": ["She decided quickly to finish her homework.", "She quickly to decide finish her homework.", "She to decide quickly finish her homework."]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "What is the meaning of the word 'serendipity'?",
+      "correct_answer": "A fortunate accident or pleasant surprise",
+      "incorrect_answers": ["A planned event", "A deliberate mistake", "A predictable outcome"]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "Which of the following sentences uses a zeugma?",
+      "correct_answer": "She broke her phone and her heart.",
+      "incorrect_answers": ["He ran out of the house and quickly.", "The stormy night and the angry teacher.", "He sang a song and in the shower."]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "Choose the correct word to complete the sentence: 'The author's latest book is a _______ of his previous works.'",
+      "correct_answer": "Collection",
+      "incorrect_answers": ["Collage", "Colleague", "Collide"]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "What is the correct plural form of 'cactus'?",
+      "correct_answer": "Cacti",
+      "incorrect_answers": ["Cactuss", "Cactuses", "Cactus"]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "Which sentence contains a dangling participle?",
+      "correct_answer": "Running to catch the bus, my keys fell out of my pocket.",
+      "incorrect_answers": ["My keys fell out of my pocket while I was running to catch the bus.", "My keys fell out of my pocket, and I ran to catch the bus.", "My keys fell out of my pocket while the bus was running."]
+    },
+    {
+      "category": "English",
+      "difficulty": "hard",
+      "question": "Choose the correct adverb to complete the sentence: 'She sang ________.'",
+      "correct_answer": "Beautifully",
+      "incorrect_answers": ["Beautiful", "Beauty", "Beautify"]
     }
   ]
 }
